@@ -3,6 +3,6 @@ function verificar() {
 	if (respuesta === "torta de cochinita") {
 		window.location.href = "Kari.html";
 	} else {
-		alert("Respuesta incorrecta. Por favor intenta de nuevo.");
+		alert("Nop, respuesta incorrecta. Ánimo Ánimo.");
 	}
 }
